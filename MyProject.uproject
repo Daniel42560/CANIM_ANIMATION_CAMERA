@@ -138,6 +138,10 @@
 		{
 			"Name": "LiveLinkControlRig",
 			"Enabled": true
+		},
+		{
+			"Name": "CascadeToNiagaraConverter",
+			"Enabled": true
 		}
 	]
 }
